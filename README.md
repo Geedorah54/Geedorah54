@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Geedorah54
-- 👀 I’m interested in becoming a software engineer
+- 👀 I’m interested in becoming a software engineer.
 - 🌱 I’m currently learning full stack development, and have experience with Python & Javascript!
 - 💞️ I’m looking to collaborate on any type of web development project.
 - 📫 How to reach me ... email - jbormann54@gmail.com
